@@ -1,2 +1,2 @@
 # chicagocrime
-chicago crime report for cotiviti
+chicago crime report for Cotiviti
